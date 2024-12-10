@@ -1,4 +1,16 @@
-/* Add screen styles below */
-a.active {
-    font-weight: bold;
+body {
+    background: black;
+    font-family: sans-serif;
+    color: #fff;
+}
+
+.homeimg {
+    background: no-repeat bottom / cover url(Homepagepic.jpg);
+    height: 250px;
+    border-radius: 20px;
+    padding-right: 500px;
+}
+
+.links {
+    padding-left: 1500px;
 }
